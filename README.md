@@ -21,7 +21,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/AgentX.git
+   git clone https://github.com/khanmustuffa11/AgentX.git
    ```
 
 2. Navigate to the project directory:
